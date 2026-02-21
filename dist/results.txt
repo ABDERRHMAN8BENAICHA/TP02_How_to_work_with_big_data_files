@@ -1,0 +1,5 @@
+File size (GB): 6.000299893319607
+Pandas Chunk Time: 70.69924139976501
+Dask Time: 50.69632887840271
+Compressed size (GB): 1.3948486940935254
+Compressed Read Time: 94.38849472999573
